@@ -330,12 +330,12 @@ const blogSection = {
   blogs: [
     {
       url: "https://medium.com/@AmrElsayyad/mastering-data-visualization-the-ultimate-guide-to-choosing-the-right-plot-for-your-data-386ba91f5f38",
-      title: "Mastering Data Visualization: The Ultimate Guide to Choosing the Right Plot for Your Data",
-      description:
-        "A plot tells a thousand words, they say."
+      title:
+        "Mastering Data Visualization: The Ultimate Guide to Choosing the Right Plot for Your Data",
+      description: "A plot tells a thousand words, they say."
     }
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Talks Section
