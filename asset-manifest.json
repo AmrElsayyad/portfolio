@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.9f32af8a.css",
-    "main.js": "/portfolio/static/js/main.a469cb2f.js",
-    "static/css/64.bba8fa55.chunk.css": "/portfolio/static/css/64.bba8fa55.chunk.css",
+    "main.css": "/portfolio/static/css/main.08bcadf9.css",
+    "main.js": "/portfolio/static/js/main.3d15c9ab.js",
+    "static/css/64.722aed55.chunk.css": "/portfolio/static/css/64.722aed55.chunk.css",
     "static/js/64.41912c0a.chunk.js": "/portfolio/static/js/64.41912c0a.chunk.js",
-    "static/css/769.e911609b.chunk.css": "/portfolio/static/css/769.e911609b.chunk.css",
-    "static/js/769.6b18baac.chunk.js": "/portfolio/static/js/769.6b18baac.chunk.js",
+    "static/css/769.218dfb67.chunk.css": "/portfolio/static/css/769.218dfb67.chunk.css",
+    "static/js/769.651e25dc.chunk.js": "/portfolio/static/js/769.651e25dc.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/schneiderLogo.png": "/portfolio/static/media/schneiderLogo.d00d4249317f005bcba4.png",
     "static/media/Agustina.woff": "/portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
@@ -23,15 +23,15 @@
     "static/media/pwaLogo.webp": "/portfolio/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
     "index.html": "/portfolio/index.html",
     "static/media/talksCardBack.svg": "/portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.9f32af8a.css.map": "/portfolio/static/css/main.9f32af8a.css.map",
-    "main.a469cb2f.js.map": "/portfolio/static/js/main.a469cb2f.js.map",
-    "64.bba8fa55.chunk.css.map": "/portfolio/static/css/64.bba8fa55.chunk.css.map",
+    "main.08bcadf9.css.map": "/portfolio/static/css/main.08bcadf9.css.map",
+    "main.3d15c9ab.js.map": "/portfolio/static/js/main.3d15c9ab.js.map",
+    "64.722aed55.chunk.css.map": "/portfolio/static/css/64.722aed55.chunk.css.map",
     "64.41912c0a.chunk.js.map": "/portfolio/static/js/64.41912c0a.chunk.js.map",
-    "769.e911609b.chunk.css.map": "/portfolio/static/css/769.e911609b.chunk.css.map",
-    "769.6b18baac.chunk.js.map": "/portfolio/static/js/769.6b18baac.chunk.js.map"
+    "769.218dfb67.chunk.css.map": "/portfolio/static/css/769.218dfb67.chunk.css.map",
+    "769.651e25dc.chunk.js.map": "/portfolio/static/js/769.651e25dc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f32af8a.css",
-    "static/js/main.a469cb2f.js"
+    "static/css/main.08bcadf9.css",
+    "static/js/main.3d15c9ab.js"
   ]
 }
