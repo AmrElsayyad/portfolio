@@ -109,6 +109,14 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-npm"
     },
     {
+      skillName: "angular",
+      fontAwesomeClassname: "fab fa-angular"
+    },
+    {
+      skillName: "reactjs",
+      fontAwesomeClassname: "fab fa-react"
+    },
+    {
       skillName: "html-5",
       fontAwesomeClassname: "fab fa-html5"
     },
@@ -117,12 +125,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
-      skillName: "angular",
-      fontAwesomeClassname: "fab fa-angular"
-    },
-    {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
+      skillName: "sass",
+      fontAwesomeClassname: "fab fa-sass"
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -224,7 +228,7 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "SOME BIG PROJECTS I CONTRIBUTED TO THEIR FORKS INTERNALLY",
+  subtitle: "SOME BIG PROJECTS I CONTRIBUTED TO",
   projects: [
     {
       image: require("./assets/images/open5gsLogo.png"), // Add your project image
@@ -325,16 +329,10 @@ const blogSection = {
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+      url: "https://medium.com/@AmrElsayyad/mastering-data-visualization-the-ultimate-guide-to-choosing-the-right-plot-for-your-data-386ba91f5f38",
+      title: "Mastering Data Visualization: The Ultimate Guide to Choosing the Right Plot for Your Data",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
-    },
-    {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
-      description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+        "A plot tells a thousand words, they say."
     }
   ],
   display: false // Set false to hide this section, defaults to true
@@ -375,8 +373,8 @@ const podcastSection = {
 // Twitter Section
 
 const twitterDetails = {
-  userName: "twitter", //Replace "twitter" with your twitter username without @
-  display: false // Set true to display this section, defaults to false
+  userName: "amrelsayyad96", //Replace with your twitter username without @
+  display: true // Set true to display this section, defaults to false
 };
 
 const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
