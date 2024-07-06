@@ -21,7 +21,7 @@ const greeting = {
   username: "Amr Elsayyad",
   title: "Hi, I'm Amr Elsayyad",
   subTitle: emoji(
-    "A passionate Software Engineer 🚀 with experience building software solutions with C / C++20 / Java / Spring Framework / Python / TypeScript / Angular / JavaScript / ReactJS and some other cool libraries and frameworks."
+    "Amr Elsayyad is a skilled software engineer with a diverse technical background, including proficiency in various languages and a strong foundation in backend development. He has experience in building software solutions, interactive applications, and integrating third-party services. Amr has contributed to projects at Orange Innovation Egypt, Schneider Electric Systems Egypt, and the open-source community, showcasing his ability to create secure and efficient software solutions."
   ),
   resumeLink:
     "https://drive.google.com/u/1/uc?id=1d3ZI-UgsQIrGdDxhEyf_JyzJPl2jZIeW&export=download", // Set to empty to hide the button
