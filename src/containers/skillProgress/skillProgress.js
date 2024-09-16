@@ -8,7 +8,7 @@ import DisplayLottie from "../../components/displayLottie/DisplayLottie";
 export default function StackProgress() {
   if (techStack.viewSkillBars) {
     return (
-      <Fade bottom duration={1000} distance="20px">
+      <Fade bottom duration={750} distance="20px">
         <div className="skills-container">
           <div className="skills-bar">
             <h1 className="skills-heading">Proficiency</h1>
