@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.c8476f32.css",
-    "main.js": "/portfolio/static/js/main.ded297c1.js",
+    "main.js": "/portfolio/static/js/main.40bb9dd1.js",
     "static/css/487.9a7e914b.chunk.css": "/portfolio/static/css/487.9a7e914b.chunk.css",
-    "static/js/487.2ed0bf94.chunk.js": "/portfolio/static/js/487.2ed0bf94.chunk.js",
+    "static/js/487.f653bfd8.chunk.js": "/portfolio/static/js/487.f653bfd8.chunk.js",
     "static/css/990.6d815313.chunk.css": "/portfolio/static/css/990.6d815313.chunk.css",
-    "static/js/990.9f5aeae2.chunk.js": "/portfolio/static/js/990.9f5aeae2.chunk.js",
+    "static/js/990.e908f2ea.chunk.js": "/portfolio/static/js/990.e908f2ea.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/schneiderLogo.png": "/portfolio/static/media/schneiderLogo.d00d4249317f005bcba4.png",
     "static/media/o6uLogo.png": "/portfolio/static/media/o6uLogo.db73f2817656b6ae88bf.png",
@@ -24,14 +24,14 @@
     "index.html": "/portfolio/index.html",
     "static/media/talksCardBack.svg": "/portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.c8476f32.css.map": "/portfolio/static/css/main.c8476f32.css.map",
-    "main.ded297c1.js.map": "/portfolio/static/js/main.ded297c1.js.map",
+    "main.40bb9dd1.js.map": "/portfolio/static/js/main.40bb9dd1.js.map",
     "487.9a7e914b.chunk.css.map": "/portfolio/static/css/487.9a7e914b.chunk.css.map",
-    "487.2ed0bf94.chunk.js.map": "/portfolio/static/js/487.2ed0bf94.chunk.js.map",
+    "487.f653bfd8.chunk.js.map": "/portfolio/static/js/487.f653bfd8.chunk.js.map",
     "990.6d815313.chunk.css.map": "/portfolio/static/css/990.6d815313.chunk.css.map",
-    "990.9f5aeae2.chunk.js.map": "/portfolio/static/js/990.9f5aeae2.chunk.js.map"
+    "990.e908f2ea.chunk.js.map": "/portfolio/static/js/990.e908f2ea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c8476f32.css",
-    "static/js/main.ded297c1.js"
+    "static/js/main.40bb9dd1.js"
   ]
 }
