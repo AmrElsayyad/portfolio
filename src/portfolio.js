@@ -190,15 +190,22 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Software Engineer – Machine Learning",
+      company: "Giza Systems",
+      companylogo: require("./assets/images/gizaSystemsLogo.png"),
+      date: "December 2024 – Present"
+    },
+    {
       role: "Software Engineer",
       company: "Orange Innovation Egypt",
       companylogo: require("./assets/images/orangeLogo.png"),
-      date: "March 2023 – Present",
+      date: "March 2023 – December 2024",
       descBullets: [
-        "Implemented VoWiFi in Open5GS, enabling users to make and receive voice calls over Wi-Fi networks using SIM mobile numbers, enabling smooth handover between Wi-Fi and LTE.",
-        "Implemented roaming local breakout in Open5GS, improving the efficiency of data services for roaming subscribers by routing their traffic locally instead of through their home network.",
-        "Added support for selecting the default APN per subscriber in Magma.",
-        "Implemented encryption of TACACS+ AAA server key in SONiC."
+        "Contributed to Open5GS, a C-language Open-Source implementation for 5G Core and EPC, implementing cutting edge solutions such as VoWiFi and LBO.",
+        "Contributed to Magma, a C, C++, Python, and Go Open-Source mobile core network solution, improving the usability of the software platform.",
+        "Contributed to SONiC, an Open-Source Network Operating System (NOS) based on Linux that runs on switches from multiple vendors and ASICs, improving security features.",
+        "Contributed to a web UI for a Network Services Orchestrator (NSO) project using Vaadin, a Full-Stack Java Platform for Building Modern Web Apps.",
+        "Designed and implemented an inventory management system for the company."
       ]
     },
     {
