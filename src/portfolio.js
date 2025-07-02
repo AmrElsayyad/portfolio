@@ -21,7 +21,7 @@ const greeting = {
   username: "Amr Elsayyad",
   title: "Hi, I'm Amr Elsayyad",
   subTitle: emoji(
-    "A skilled software engineer with a diverse technical background, including proficiency in various languages and a strong foundation in backend development. He has experience in building software solutions, interactive applications, and integrating third-party services."
+    "A passionate Software Engineer with experience in backend development, DevOps, and machine learning. Specialized in Java, Python, C/C++, and cloud technologies with a proven track record in telecommunications, industrial automation, and AI solutions."
   ),
   resumeLink:
     "https://drive.google.com/u/1/uc?id=1d3ZI-UgsQIrGdDxhEyf_JyzJPl2jZIeW&export=download", // Set to empty to hide the button
@@ -31,7 +31,7 @@ const greeting = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
+    "Interested in collaboration or have an exciting opportunity? Let's connect and discuss how we can work together!",
   number: "+20 106 460 4548",
   email_address: "amrelsayyad96@outlook.com"
 };
@@ -55,16 +55,19 @@ const socialMediaLinks = {
 const skillsSection = {
   title: "What I do",
   subTitle:
-    "CRAZY SOFTWARE ENGINEER WHO LOVES TO EXPLORE DIFFERENT TECH STACKS",
+    "PASSIONATE SOFTWARE ENGINEER WHO LOVES TO EXPLORE CUTTING-EDGE TECHNOLOGIES",
   skills: [
     emoji(
-      "⚡ Develop software solutions with a focus on backend development using Java, Python, C / C++20 and JavaScript"
+      "⚡ Develop robust backend systems and microservices using Java, Python, C/C++, and modern frameworks like Spring Boot and Django"
     ),
     emoji(
-      "⚡ Build interactive front-end applications with JavaScript frameworks like ReactJS and Angular"
+      "⚡ Build scalable cloud-native applications with Docker, Kubernetes, and CI/CD pipelines"
     ),
     emoji(
-      "⚡ Implement and integrate third-party services and solutions for efficient software development"
+      "⚡ Design and implement machine learning solutions and data engineering pipelines"
+    ),
+    emoji(
+      "⚡ Architect secure industrial automation systems and contribute to open-source projects"
     )
   ],
 
@@ -85,8 +88,16 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-js"
     },
     {
+      skillName: "C/C++",
+      fontAwesomeClassname: "fas fa-code"
+    },
+    {
       skillName: "sql-database",
       fontAwesomeClassname: "fas fa-database"
+    },
+    {
+      skillName: "mongodb",
+      fontAwesomeClassname: "fas fa-leaf"
     },
     {
       skillName: "linux",
@@ -97,16 +108,32 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-docker"
     },
     {
+      skillName: "kubernetes",
+      fontAwesomeClassname: "fas fa-dharmachakra"
+    },
+    {
       skillName: "git",
       fontAwesomeClassname: "fab fa-git"
     },
     {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
+      skillName: "azure",
+      fontAwesomeClassname: "fab fa-microsoft"
     },
     {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
+      skillName: "kafka",
+      fontAwesomeClassname: "fas fa-stream"
+    },
+    {
+      skillName: "spring-boot",
+      fontAwesomeClassname: "fas fa-leaf"
+    },
+    {
+      skillName: "django",
+      fontAwesomeClassname: "fab fa-python"
+    },
+    {
+      skillName: "nodejs",
+      fontAwesomeClassname: "fab fa-node"
     },
     {
       skillName: "angular",
@@ -115,18 +142,6 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "reactjs",
       fontAwesomeClassname: "fab fa-react"
-    },
-    {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
-    },
-    {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -140,24 +155,30 @@ const educationInfo = {
     {
       schoolName: "Information Technology Institute (ITI)",
       logo: require("./assets/images/itiLogo.png"),
-      subHeader: "AI Diploma",
+      subHeader: "Artificial Intelligence Diploma",
       duration: "November 2021 - August 2022",
+      desc: "Intensive 9-month program focusing on cutting-edge AI technologies and practical applications.",
       descBullets: [
-        "Applied Data Engineering concepts to real-world data.",
-        "Utilized Spark & PySpark for Big Data and Machine Learning.",
-        "Applied Linear Algebra, Statistics, and Numerical Optimization concepts for DS and ML.",
-        "Developed AI applications using C++, Java, and Python."
+        "Applied Data Engineering concepts to real-world data using Apache Spark, and modern ETL pipelines",
+        "Utilized Apache Spark & PySpark for Big Data processing and Machine Learning at scale",
+        "Applied Linear Algebra, Statistics, and Numerical Optimization concepts for Data Science and Machine Learning",
+        "Developed AI applications using C++, Java, and Python",
+        "Implemented end-to-end machine learning projects from data collection to model deployment"
       ]
     },
     {
       schoolName: "October 6 University (O6U)",
       logo: require("./assets/images/o6uLogo.png"),
-      subHeader: "B.Sc. in Mechatronics Engineering",
+      subHeader: "Bachelor of Science in Mechatronics Engineering",
       duration: "September 2014 - August 2019",
       desc: "GPA: 3.59 / 4.0 (Equivalent to Excellent).",
       descBullets: [
-        "Graduation Project: Thermosyphon Water Purification System.",
-        "Key Courses: Mathematics, Physics, Introduction to Computers, Production Technology, Mechanics, Thermodynamics, Stress Analysis, Electro-Magnetic Field, Logic Design, Engineering Analysis Methods, Electronics Circuit, Computer Aided Design, Power Electronics, Micro-Controller, Mechatronics Systems Design, Robotics, Principles of Scientific Thinking, Modeling and Simulation of Mechanical Systems, Artificial Intelligence."
+        "Graduation Project: Thermosyphon Water Purification System - Designed and implemented an innovative water purification system",
+        "Core Engineering Courses: Advanced Mathematics, Physics, Thermodynamics, Stress Analysis, Electromagnetic Fields",
+        "Programming & Control Systems: Introduction to Computers, Logic Design, Microcontrollers, Robotics, Artificial Intelligence",
+        "Design & Analysis: Computer Aided Design (CAD), Engineering Analysis Methods, Modeling and Simulation of Mechanical Systems",
+        "Electronics & Power: Electronics Circuits, Power Electronics, Mechatronics Systems Design",
+        "Leadership & Research: Principles of Scientific Thinking, Production Technology, Project Management"
       ]
     }
   ]
@@ -166,14 +187,18 @@ const educationInfo = {
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
-  viewSkillBars: false, //Set it to true to show Proficiency Section
+  viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
       Stack: "Backend Development", //Insert stack or technology you have experience in
-      progressPercentage: "90%" //Insert relative proficiency in percentage
+      progressPercentage: "95%" //Insert relative proficiency in percentage
     },
     {
       Stack: "Frontend Development",
+      progressPercentage: "75%"
+    },
+    {
+      Stack: "DevOps & Cloud",
       progressPercentage: "70%"
     },
     {
@@ -193,7 +218,15 @@ const workExperiences = {
       role: "Software Engineer – Machine Learning",
       company: "Giza Systems",
       companylogo: require("./assets/images/gizaSystemsLogo.png"),
-      date: "December 2024 – Present"
+      date: "December 2024 – Present",
+      descBullets: [
+        "Worked on big data processing and analytics using Apache Kafka for real-time data streaming",
+        "Developed backend systems using Django framework for web applications",
+        "Implemented DevOps practices using Azure DevOps for CI/CD pipeline management",
+        "Worked with ArgoCD for GitOps and continuous deployment automation",
+        "Utilized HashiCorp Vault for secrets management and security",
+        "Integrated Keycloak for identity and access management solutions"
+      ]
     },
     {
       role: "Software Engineer",
@@ -214,10 +247,12 @@ const workExperiences = {
       companylogo: require("./assets/images/schneiderLogo.png"),
       date: "March 2020 – November 2021",
       descBullets: [
-        "Represented the cybersecurity department in Egypt and supervised the IEC-62443-2-4 certification for industrial automation security.",
-        "Designed the system architecture for a 5M$ project.",
-        "Designed and implemented industrial automation solutions using Foxboro DCS, and Triconex SIS for various clients and sectors.",
-        "Supervised the assembly, testing, delivery, and maintenance of projects."
+        "Represented the cybersecurity department in Egypt and supervised the IEC-62443-2-4 certification for industrial automation security",
+        "Designed the system architecture for a 5M$ project involving complex industrial control systems",
+        "Designed and implemented industrial automation solutions using Foxboro DCS, and Triconex SIS for various clients and sectors",
+        "Supervised the assembly, testing, delivery, and maintenance of projects ensuring high quality standards",
+        "Implemented security protocols and best practices for industrial control systems",
+        "Led teams of engineers in project execution and delivery"
       ]
     }
   ]
@@ -234,31 +269,38 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME BIG PROJECTS I CONTRIBUTED TO",
+  title: "Major Projects",
+  subtitle: "PROJECTS AND OPEN-SOURCE CONTRIBUTIONS",
   projects: [
     {
-      image: require("./assets/images/open5gsLogo.png"), // Add your project image
+      image: require("./assets/images/open5gsLogo.png"),
       projectName: "Open5GS",
       projectDesc:
-        "Enabled users to make and receive voice calls over Wi-Fi networks using SIM mobile numbers, ensuring smooth handover between Wi-Fi and LTE.",
+        "Implemented Voice over Wi-Fi (VoWiFi) functionality in Open5GS, enabling users to make and receive voice calls over Wi-Fi networks using SIM mobile numbers with seamless handover between Wi-Fi and LTE networks.",
       footerLink: [
         {
           name: "Visit Website",
           url: "https://open5gs.org/"
+        },
+        {
+          name: "GitHub",
+          url: "https://github.com/open5gs/open5gs"
         }
-        //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/magmaLogo.png"), // Add your project image
+      image: require("./assets/images/magmaLogo.png"),
       projectName: "Magma",
       projectDesc:
-        "Added support for selecting the default APN per subscriber in Magma.",
+        "Enhanced Magma core network platform by adding support for selecting default APN (Access Point Name) per subscriber, improving network configuration flexibility and user experience.",
       footerLink: [
         {
           name: "Visit Website",
           url: "https://magma.github.io/magma/"
+        },
+        {
+          name: "GitHub",
+          url: "https://github.com/magma/magma"
         }
       ]
     }
@@ -272,54 +314,19 @@ const bigProjects = {
 const achievementSection = {
   title: emoji("Achievements And Certifications 🏆 "),
   subtitle:
-    "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done!",
+    "Professional certifications, achievements, and recognitions in software engineering and cybersecurity!",
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "IEC-62443-2-4 Cybersecurity Certification",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+        "Led the supervision and implementation of IEC-62443-2-4 cybersecurity standards for industrial automation systems at Schneider Electric.",
+      image: require("./assets/images/schneiderLogo.png"),
+      imageAlt: "Schneider Electric Logo",
       footerLink: [
         {
-          name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-        },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
-        }
-      ]
-    },
-    {
-      title: "Google Assistant Action",
-      subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      imageAlt: "Google Assistant Action Logo",
-      footerLink: [
-        {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
-        }
-      ]
-    },
-
-    {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
-      footerLink: [
-        {name: "Certification", url: ""},
-        {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
+          name: "Learn More",
+          url: "https://www.se.com/ww/en/work/solutions/cybersecurity/industrial-cybersecurity.jsp"
         }
       ]
     }

@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "caniuse-lite": "^1.0.30001724",
+    "caniuse-lite": "^1.0.30001726",
     "colorthief": "^2.6.0",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.8",
@@ -54,7 +54,7 @@
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
-    "dotenv": "^16.5.0",
-    "prettier": "^3.6.0"
+    "dotenv": "^16.6.1",
+    "prettier": "^3.6.2"
   }
 }
