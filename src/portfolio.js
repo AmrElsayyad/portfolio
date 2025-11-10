@@ -191,19 +191,19 @@ const techStack = {
   experience: [
     {
       Stack: "Backend Development", //Insert stack or technology you have experience in
-      progressPercentage: "95%" //Insert relative proficiency in percentage
+      progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
       Stack: "Frontend Development",
-      progressPercentage: "75%"
+      progressPercentage: "85%"
     },
     {
       Stack: "DevOps & Cloud",
-      progressPercentage: "70%"
+      progressPercentage: "80%"
     },
     {
       Stack: "Machine Learning",
-      progressPercentage: "60%"
+      progressPercentage: "70%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -225,7 +225,8 @@ const workExperiences = {
         "Implemented DevOps practices using Azure DevOps for CI/CD pipeline management",
         "Worked with ArgoCD for GitOps and continuous deployment automation",
         "Utilized HashiCorp Vault for secrets management and security",
-        "Integrated Keycloak for identity and access management solutions"
+        "Integrated Keycloak for identity and access management solutions",
+        "Designed and developed Apache Airflow DAGs to automate the backup, archiving, and report generation of ClickHouse and PostgreSQL databases to MinIO object storage."
       ]
     },
     {
@@ -234,7 +235,7 @@ const workExperiences = {
       companylogo: require("./assets/images/orangeLogo.png"),
       date: "March 2023 – December 2024",
       descBullets: [
-        "Contributed to Open5GS, a C-language Open-Source implementation for 5G Core and EPC, implementing cutting edge solutions such as VoWiFi and LBO.",
+        "Contributed to Open5GS, a C-language Open-Source implementation for 5G Core and EPC, implementing cutting edge solutions such as VoWiFi and Local Breakout (LBO) for roaming.",
         "Contributed to Magma, a C, C++, Python, and Go Open-Source mobile core network solution, improving the usability of the software platform.",
         "Contributed to SONiC, an Open-Source Network Operating System (NOS) based on Linux that runs on switches from multiple vendors and ASICs, improving security features.",
         "Contributed to a web UI for a Network Services Orchestrator (NSO) project using Vaadin, a Full-Stack Java Platform for Building Modern Web Apps.",
@@ -251,8 +252,7 @@ const workExperiences = {
         "Designed the system architecture for a 5M$ project involving complex industrial control systems",
         "Designed and implemented industrial automation solutions using Foxboro DCS, and Triconex SIS for various clients and sectors",
         "Supervised the assembly, testing, delivery, and maintenance of projects ensuring high quality standards",
-        "Implemented security protocols and best practices for industrial control systems",
-        "Led teams of engineers in project execution and delivery"
+        "Implemented security protocols and best practices for industrial control systems"
       ]
     }
   ]
