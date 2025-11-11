@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a2b5f516.css",
-    "main.js": "/portfolio/static/js/main.c55e0c98.js",
+    "main.css": "/portfolio/static/css/main.d3916995.css",
+    "main.js": "/portfolio/static/js/main.0937dfd9.js",
     "static/css/487.9a7e914b.chunk.css": "/portfolio/static/css/487.9a7e914b.chunk.css",
     "static/js/487.f653bfd8.chunk.js": "/portfolio/static/js/487.f653bfd8.chunk.js",
     "static/css/990.6d815313.chunk.css": "/portfolio/static/css/990.6d815313.chunk.css",
     "static/js/990.e908f2ea.chunk.js": "/portfolio/static/js/990.e908f2ea.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/schneiderLogo.png": "/portfolio/static/media/schneiderLogo.d00d4249317f005bcba4.png",
+    "static/media/fa-solid-900.woff2": "/portfolio/static/media/fa-solid-900.8ae0d37556ff1e685de2.woff2",
     "static/media/o6uLogo.png": "/portfolio/static/media/o6uLogo.db73f2817656b6ae88bf.png",
+    "static/media/fa-brands-400.woff2": "/portfolio/static/media/fa-brands-400.1c5c7716b05754cb4eab.woff2",
     "static/media/Agustina.woff": "/portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/manOnTable.svg": "/portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/contactMailDark.svg": "/portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
@@ -16,19 +18,21 @@
     "static/media/magmaLogo.png": "/portfolio/static/media/magmaLogo.6b9443b345794f82acf7.png",
     "static/media/open5gsLogo.png": "/portfolio/static/media/open5gsLogo.fc0adc62a5d900335b92.png",
     "static/media/itiLogo.png": "/portfolio/static/media/itiLogo.2482cbcd70fc858f9462.png",
+    "static/media/fa-regular-400.woff2": "/portfolio/static/media/fa-regular-400.6f05ca9ab7b5345dbc07.woff2",
     "static/media/orangeLogo.png": "/portfolio/static/media/orangeLogo.b4674bada5fc13fee2ad.png",
     "static/media/skill.svg": "/portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/fa-v4compatibility.woff2": "/portfolio/static/media/fa-v4compatibility.e4340c52a50e727c6afa.woff2",
     "index.html": "/portfolio/index.html",
     "static/media/talksCardBack.svg": "/portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.a2b5f516.css.map": "/portfolio/static/css/main.a2b5f516.css.map",
-    "main.c55e0c98.js.map": "/portfolio/static/js/main.c55e0c98.js.map",
+    "main.d3916995.css.map": "/portfolio/static/css/main.d3916995.css.map",
+    "main.0937dfd9.js.map": "/portfolio/static/js/main.0937dfd9.js.map",
     "487.9a7e914b.chunk.css.map": "/portfolio/static/css/487.9a7e914b.chunk.css.map",
     "487.f653bfd8.chunk.js.map": "/portfolio/static/js/487.f653bfd8.chunk.js.map",
     "990.6d815313.chunk.css.map": "/portfolio/static/css/990.6d815313.chunk.css.map",
     "990.e908f2ea.chunk.js.map": "/portfolio/static/js/990.e908f2ea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2b5f516.css",
-    "static/js/main.c55e0c98.js"
+    "static/css/main.d3916995.css",
+    "static/js/main.0937dfd9.js"
   ]
 }
