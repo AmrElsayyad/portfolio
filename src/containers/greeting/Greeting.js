@@ -45,7 +45,7 @@ export default function Greeting() {
                     href={greeting.resumeLink}
                     className="download-link-button"
                   >
-                    <Button text="Download my resume" />
+                    <Button text="Download my CV" />
                   </a>
                 )}
               </div>
