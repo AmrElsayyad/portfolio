@@ -1,7 +1,7 @@
-import React, {useContext} from "react";
-import "./SoftwareSkill.scss";
-import {skillsSection} from "../../portfolio";
+import {useContext} from "react";
 import StyleContext from "../../contexts/StyleContext";
+import {skillsSection} from "../../portfolio";
+import "./SoftwareSkill.scss";
 
 export default function SoftwareSkill() {
   const {isDark} = useContext(StyleContext);
@@ -18,7 +18,15 @@ export default function SoftwareSkill() {
                 }
                 name={skills.skillName}
               >
-                <i className={skills.fontAwesomeClassname}></i>
+                {skills.imageSrc ? (
+                  <img
+                    className="skill-svg"
+                    src={skills.imageSrc}
+                    alt={skills.skillName}
+                  />
+                ) : (
+                  <i className={skills.fontAwesomeClassname}></i>
+                )}
                 <p>{skills.skillName}</p>
               </li>
             );

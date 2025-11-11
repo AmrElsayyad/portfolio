@@ -76,72 +76,72 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "java",
-      fontAwesomeClassname: "fab fa-java"
+      skillName: "Java",
+      fontAwesomeClassname: "devicon-java-plain"
     },
     {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
+      skillName: "Python",
+      fontAwesomeClassname: "devicon-python-plain"
     },
     {
       skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
+      fontAwesomeClassname: "devicon-javascript-plain"
     },
     {
       skillName: "C/C++",
-      fontAwesomeClassname: "fas fa-code"
+      fontAwesomeClassname: "devicon-cplusplus-plain"
     },
     {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
+      skillName: "Django",
+      fontAwesomeClassname: "devicon-django-plain"
     },
     {
-      skillName: "mongodb",
-      fontAwesomeClassname: "fas fa-leaf"
+      skillName: "Spring Boot",
+      fontAwesomeClassname: "devicon-spring-plain"
     },
     {
-      skillName: "linux",
-      fontAwesomeClassname: "fab fa-linux"
+      skillName: "Angular",
+      fontAwesomeClassname: "devicon-angularjs-plain"
     },
     {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
+      skillName: "ReactJS",
+      fontAwesomeClassname: "devicon-react-original"
     },
     {
-      skillName: "kubernetes",
-      fontAwesomeClassname: "fas fa-dharmachakra"
+      skillName: "MS SQL Server",
+      fontAwesomeClassname: "devicon-microsoftsqlserver-plain"
     },
     {
-      skillName: "git",
-      fontAwesomeClassname: "fab fa-git"
+      skillName: "MongoDB",
+      fontAwesomeClassname: "devicon-mongodb-plain"
     },
     {
-      skillName: "azure",
-      fontAwesomeClassname: "fab fa-microsoft"
+      skillName: "Redis",
+      fontAwesomeClassname: "devicon-redis-plain"
     },
     {
-      skillName: "kafka",
-      fontAwesomeClassname: "fas fa-stream"
+      skillName: "Airflow",
+      fontAwesomeClassname: "fas fa-fan"
     },
     {
-      skillName: "spring-boot",
-      fontAwesomeClassname: "fas fa-leaf"
+      skillName: "Kafka",
+      fontAwesomeClassname: "devicon-apachekafka-original"
     },
     {
-      skillName: "django",
-      fontAwesomeClassname: "fab fa-python"
+      skillName: "Git",
+      fontAwesomeClassname: "devicon-git-plain"
     },
     {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
+      skillName: "Linux",
+      fontAwesomeClassname: "devicon-linux-plain"
     },
     {
-      skillName: "angular",
-      fontAwesomeClassname: "fab fa-angular"
+      skillName: "Docker",
+      fontAwesomeClassname: "devicon-docker-plain"
     },
     {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
+      skillName: "Kubernetes",
+      fontAwesomeClassname: "devicon-kubernetes-plain"
     }
   ],
   display: true // Set false to hide this section, defaults to true
