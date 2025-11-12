@@ -120,20 +120,12 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "devicon-redis-plain"
     },
     {
-      skillName: "Airflow",
-      fontAwesomeClassname: "fas fa-fan"
-    },
-    {
       skillName: "Kafka",
       fontAwesomeClassname: "devicon-apachekafka-original"
     },
     {
-      skillName: "Git",
-      fontAwesomeClassname: "devicon-git-plain"
-    },
-    {
-      skillName: "Linux",
-      fontAwesomeClassname: "devicon-linux-plain"
+      skillName: "Airflow",
+      fontAwesomeClassname: "fas fa-fan"
     },
     {
       skillName: "Docker",
@@ -142,6 +134,14 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "Kubernetes",
       fontAwesomeClassname: "devicon-kubernetes-plain"
+    },
+    {
+      skillName: "Git",
+      fontAwesomeClassname: "devicon-git-plain"
+    },
+    {
+      skillName: "Linux",
+      fontAwesomeClassname: "devicon-linux-plain"
     }
   ],
   display: true // Set false to hide this section, defaults to true
