@@ -92,12 +92,12 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "devicon-cplusplus-plain"
     },
     {
-      skillName: "Django",
-      fontAwesomeClassname: "devicon-django-plain"
-    },
-    {
       skillName: "Spring Boot",
       fontAwesomeClassname: "devicon-spring-plain"
+    },
+    {
+      skillName: "Django",
+      fontAwesomeClassname: "devicon-django-plain"
     },
     {
       skillName: "Angular",
