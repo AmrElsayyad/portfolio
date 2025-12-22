@@ -67,7 +67,7 @@ const skillsSection = {
       "⚡ Design and implement machine learning solutions and data engineering pipelines"
     ),
     emoji(
-      "⚡ Architect secure industrial automation systems and contribute to open-source projects"
+      "⚡ Build interactive front-end applications with JavaScript frameworks like ReactJS and Angular"
     )
   ],
 
